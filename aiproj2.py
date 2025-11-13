@@ -15,7 +15,7 @@ import tempfile
 import re
 
 # Configure API key
-api_key = "AIzaSyCMMOPf9e4fPUamtxoX50_LcHECE3L4w80"
+api_key = "AIzaSyBHySBPk3W9fcpuXujmGMc1C5F2BsPgIO8"
 genai.configure(api_key=api_key)
 
 # Configure page
